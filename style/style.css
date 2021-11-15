@@ -14,9 +14,6 @@
     height: 100%;
     background-color: blue;
     z-index: 0;
-    top: 0;
-    right: 0;
-    transform-style: preserve-3d;
     perspective: 600px;
 }
 
